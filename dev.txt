@@ -1,0 +1,11 @@
+need to finish install script
+
+gulp seems to be working properly
+
+need to impliment preview links
+
+need to style index.html LOL
+
+keep working on sketches too omegalul
+
+create readme when process is clear
